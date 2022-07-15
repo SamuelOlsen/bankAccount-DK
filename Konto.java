@@ -30,7 +30,6 @@ public class Konto {
 			}
 			
 			
-		
 	}
 	
         public void antalKonti(int a, Person ejeren) {
