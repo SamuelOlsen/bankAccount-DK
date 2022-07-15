@@ -34,23 +34,23 @@ With this in the main class:
 		p.setSaldo(0, 333, kt);
 		kt.udskrivPost();
     
-
-The result should look like this in the console: 
+your result should look like this:    
 
 Antal konti: 2 for person: John
 John har bel�b: 50 kr. p� konto nr. 1
 John har bel�b: 100 kr. p� konto nr. 2
 Samlet set har John 10150 hvoraf bel�bet: 10000 er bilens v�rdi
-
+*****************************************************
 Antal konti: 1 for person: Amanda
 Amanda har bel�b: 400 kr. p� konto nr. 1
 Samlet set har Amanda 55955 hvoraf bel�bet: 55555 er bilens v�rdi
-
+*****************************************************
 Amanda har nu indsat: 400 p� sin konto nr. 1 og har nu samlet set: 800
 Amanda har nu indsat: 600 p� sin konto nr. 1 og har nu samlet set: 1400
 Amanda har nu indsat: 1400 p� sin konto nr. 1 og har nu samlet set: 2800
 Amanda har nu h�vet: -2200 p� sin konto nr. 1 og har nu samlet set: 600
 4
 John har nu indsat: 333 p� sin konto nr. 1 og har nu samlet set: 383
+
 
 
