@@ -27,5 +27,4 @@ public class BenytBankKonti {
 		kt.udskrivPost();
 	
 	}
-
 }
